@@ -1,0 +1,9 @@
+.box{
+    background-color: blue;
+}
+/* this button is in page ... */
+.btn-secondary {
+    background-color: pink;
+    border-color: green;
+}
+
